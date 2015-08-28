@@ -1,0 +1,7 @@
+git init 初始化
+git add 本地提交到暂存区
+git commit 暂存器提交到历史记录
+git status 查看工作区和暂存器之间的区别
+git rm 从暂存区里删掉不需要的文件
+git mv 在工作区中重命名或移动文件，再添加到暂存区
+git ignore 将暂存区和历史记录里不需要的文件删除
